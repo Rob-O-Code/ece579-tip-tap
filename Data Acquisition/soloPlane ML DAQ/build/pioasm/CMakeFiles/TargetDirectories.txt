@@ -1,0 +1,3 @@
+/Users/rpoleynick/Documents/soloPlane/soloPlane ML DAQ/build/pioasm/CMakeFiles/pioasm.dir
+/Users/rpoleynick/Documents/soloPlane/soloPlane ML DAQ/build/pioasm/CMakeFiles/edit_cache.dir
+/Users/rpoleynick/Documents/soloPlane/soloPlane ML DAQ/build/pioasm/CMakeFiles/rebuild_cache.dir

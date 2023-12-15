@@ -1,0 +1,40 @@
+{
+  "cmake.environment": {
+    "PICO_SDK_PATH":"../../pico-sdk"
+},
+"cmake.generator": "Unix Makefiles",
+"cmake.configureOnOpen": true,
+  "cmake.statusbar.advanced": {
+    "debug" : {
+      "visibility": "hidden"
+              },
+    "launch" : {
+      "visibility": "hidden"
+               },
+    "build" : {
+      "visibility": "default"
+               },
+    "buildTarget" : {
+      "visibility": "hidden"
+               },
+     },
+    "cmake.buildBeforeRun": true,
+    "files.associations": {
+      "stdio.h": "c",
+      "clocks.h": "c",
+      "stdlib.h": "c",
+      "dma.h": "c",
+      "i2c_slave.h": "c",
+      "multicore.h": "c",
+      "databus.h": "c",
+      "adc.h": "c",
+      "sync.h": "c",
+      "mutex.h": "c",
+      "irq.h": "c",
+      "cstdint": "c",
+      "ws2812.h": "c",
+      "pio.h": "c",
+      "queue.h": "c"
+    },
+    "cmake.options.statusBarVisibility": "visible",
+}

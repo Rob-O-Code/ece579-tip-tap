@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "name": "RP2040",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${env:PICO_SDK_PATH}/**"
+      ],
+      "defines": [
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "compilerPath": "/opt/homebrew/bin/arm-none-eabi-gcc",
+      "cStandard": "gnu17", //c11
+      "cppStandard": "gnu++14", //c++17
+      "intelliSenseMode": "gcc-arm",
+      "configurationProvider" : "ms-vscode.cmake-tools"
+      //"configurationProvider": "ms-vscode.makefile-tools",
+      //"compilerPath": "/opt/homebrew/bin/arm-none-eabi-g++"
+    }
+  ],
+  "version": 4
+}
